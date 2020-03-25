@@ -1,0 +1,5 @@
+package airfly.repository;
+
+public interface UserRepository {
+
+}

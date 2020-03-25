@@ -1,0 +1,5 @@
+package airfly.dto;
+
+public class UserDto {
+
+}

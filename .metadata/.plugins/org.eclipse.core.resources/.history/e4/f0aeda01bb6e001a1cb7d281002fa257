@@ -1,0 +1,5 @@
+package airfly.controller;
+
+public class UserController {
+
+}
