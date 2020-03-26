@@ -6,6 +6,7 @@
 		<class>model.City</class>
 		<class>model.Company</class>
 		<class>model.Flight</class>
+		<class>model.NumberOfAircraft</class>
 		<class>model.Reservation</class>
 		<class>model.Ticket</class>
 		<class>model.Userr</class>
